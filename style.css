@@ -1,0 +1,67 @@
+ #toggle{
+    border: 2px solid;
+    box-shadow: 0 8px 32px 0 rgba(0,0,0,0.3);
+    width: 80%;
+    height: 300px;
+} 
+
+    body {
+        background-image: url('https://c4.wallpaperflare.com/wallpaper/285/172/9/sunset-8k-forest-4k-wallpaper-preview.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+
+    #main {
+        padding: 5px;
+        border-radius: 5px;
+        
+    }
+
+    input {
+        width: 80%;
+        align-items: center;
+        padding: 10px;
+        margin: 20px;
+        margin-left: 40px;
+        /* margin-bottom: 10px; */
+        background-color: azure;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+    }
+
+    button {
+        width: 40%;
+        align-items: center;
+        padding: 10px;
+        margin: 40px;
+        margin-left: 150px;
+        
+        /* margin-bottom: 10px; */
+        background-color: azure;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+        cursor: pointer;
+    }
+    /* .weather{
+        position:absolute;
+        top: 0%;
+        left: 0%;
+    } */
+
+  
+
+    p {
+        color: rgb(18, 17, 17);
+        text-align: center;
+    }
+#
+#btn :hover{
+    color: chartreuse;
+}
